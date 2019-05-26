@@ -1,0 +1,153 @@
+.banner {
+	width: 980px;
+	height: 406px;
+	position: absolute;
+	left: 210px;
+	top: 202px;
+	background: url("images/banner/bg_black.png");
+}
+
+.layer1 {
+	width: 980px;
+	height: 406px;
+	position: absolute;
+	background: url("images/banner/bg.png");
+}
+
+.layer2 {
+	width: 831px;
+	height: 333px;
+	position: absolute;
+	top: 45px;
+	left: 149px;
+	background: url("images/banner/bgw.png");
+}
+
+.layer3 {
+	width: 469px;
+	height: 314px;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	background: url("images/banner/bgb.png");
+}
+.photo {
+	width: 469px;
+	height: 314px;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	background: url("images/banner/bgm.png");
+}
+
+.heading {
+	width: 289px;
+	height: 92px;
+	color: #37384d;
+	font-family: Arial-Bold MT;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 24px;
+	position: absolute;
+	top: 56px;
+	left: 514px;
+	
+}
+
+.content {
+	width: 281px;
+	height: 139px;
+	color: #4f4f4f;
+	font-family: "Arial MT";
+	font-size: 13px;
+	font-weight: 400;
+	line-height: 18px;
+	position: absolute;
+	top: 166px;
+	left: 517px;
+}
+
+.date {
+	width: 85px;
+	height: 14px;
+	color: #0054a6;
+	font-family: "Arial - Italic MT";
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 22px;
+	position: absolute;
+	top: 28px;
+	left: 515px;
+}
+
+.preview {
+	width: 87px;
+	height: 243px;
+	background-color: #ffffff;
+	position: absolute;
+	top: 92px;
+	left: 10px;
+}
+
+.person {
+	width: 67px;
+	height: 68px;
+	background: url("images/banner/person.png");
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+.person2 {
+	width: 67px;
+	height: 67px;
+	background: url("images/banner/person2.png");
+	position: absolute;
+	top: 88px;
+	left: 10px;
+}
+
+.person3 {
+	width: 67px;
+	height: 68px;
+	background: url("images/banner/person3.png");
+	position: absolute;
+	top: 165px;
+	left: 10px;
+}
+
+.up {
+	width: 22px;
+	height: 14px;
+	position: absolute;
+	top: 69px;
+	left: 106px;
+	background: url("images/banner/up.png");
+}
+
+.down {
+	width: 22px;
+	height: 14px;
+	position: absolute;
+	top: 341px;
+	left: 106px;
+	background: url("images/banner/down.png");
+}
+
+.linear1 {
+	width: 1px;
+	height: 263px;
+	position: absolute;
+	top: 80px;
+	left: 117px;
+	background: url("images/banner/linear1.png");
+}
+
+.linear2 {
+	width: 8px;
+	height: 78px;
+	position: absolute;
+	top: 97px;
+	left: 113px;
+	background: url("images/banner/linear2.png");
+}

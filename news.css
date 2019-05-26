@@ -1,0 +1,122 @@
+.news {
+	width: 1000px;
+	height: 81px;
+	background: url("images/news/blackline.png");
+	position: absolute;
+	top: 1454px;
+	left: 200px;
+}
+
+.layer4 {
+	width: 1000px;
+	height: 81px;
+	background: url("images/news/bg.png");
+}
+
+.photo2 {
+	position: absolute;
+	top: 1245px;
+	left: 220px;
+}
+
+.News {
+	width: 57px;
+	height: 14px;
+	color: #37384d;
+	font-family: "Helvetica Neue";
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 22px;
+	text-transform: uppercase;
+	position: absolute;
+	top: 256px;
+	left: 19px;
+}
+
+.date2 {
+	width: 74px;
+	height: 13px;
+	color: #0054a6;
+	font-family: "Arial - Italic MT";
+	font-size: 13px;
+	font-weight: 400;
+	line-height: 22px;
+	position: absolute;
+	top: 291px;
+	left: 354px;
+}
+
+.date3 {
+	width: 74px;
+	height: 13px;
+	color: #0054a6;
+	font-family: "Arial - Italic MT";
+	font-size: 13px;
+	font-weight: 400;
+	line-height: 22px;
+	position: absolute;
+	top: 291px;
+	left: 683px;
+}
+
+.text {
+	width: 294px;
+	height: 85px;
+	color: #4f4f4f;
+	font-family: "Arial MT";
+	font-size: 13px;
+	font-weight: 400;
+	line-height: 18px;
+	position: absolute;
+	top: 318px;
+	left: 354px;
+}
+
+.text1 {
+	width: 294px;
+	height: 85px;
+	color: #4f4f4f;
+	font-family: "Arial MT";
+	font-size: 13px;
+	font-weight: 400;
+	line-height: 18px;
+	position: absolute;
+	top: 318px;
+	left: 683px;
+}
+
+.left {
+	width: 14px;
+	height: 22px;
+	position: absolute;
+	top: 10px;
+	left: 8px;
+	background: url("images/news/left.png");
+}
+
+.right {
+	width: 14px;
+	height: 22px;
+	position: absolute;
+	top: 10px;
+	left: 977px;
+	background: url("images/news/right.png");
+}
+
+.linear3 {
+	width: 946px;
+	height: 1px;
+	position: absolute;
+	top: 21px;
+	left: 24px;
+	background: url("images/news/linear.png");
+}
+
+.linear4 {
+	width: 111px;
+	height: 9px;
+	position: absolute;
+	top: 17px;
+	left: 377px;
+	background: url("images/news/linear2.png");
+}
